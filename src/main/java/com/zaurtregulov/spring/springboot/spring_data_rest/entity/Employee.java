@@ -1,4 +1,4 @@
-package com.zaurtregulov.spring.springboot.spring_data_jpa.entity;
+package com.zaurtregulov.spring.springboot.spring_data_rest.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
